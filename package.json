@@ -1,0 +1,31 @@
+{
+  "name": "aes256-cli",
+  "version": "1.0.0",
+  "description": "[AES256 CLI]: Encrypt/Decrypt with aes256! (by iMrDJAi)",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iMrDJAi/aes256-cli.git"
+  },
+  "keywords": [
+    "aes",
+    "aes256",
+    "aes-256-ctr",
+    "cli",
+    "encrypt",
+    "decrypt",
+    "encryption",
+    "decryption",
+    "cryptography"
+  ],
+  "author": "${Mr.DJA}",
+  "license": "MIT",
+  "dependencies": {
+    "aes256": "^1.1.0",
+    "inquirer": "^8.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/iMrDJAi/aes256-cli/issues"
+  },
+  "homepage": "https://github.com/iMrDJAi/aes256-cli#readme"
+}
